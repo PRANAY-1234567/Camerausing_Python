@@ -51,7 +51,6 @@ Try changing VideoCapture(0) to VideoCapture(1)
 Check camera permissions in your OS
 
 📚 Use Cases
-
 Beginner computer vision projects
 
 Face detection
